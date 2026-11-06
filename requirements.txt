@@ -1,5 +1,5 @@
 streamlit
-crewai
+crewai[openai]
 python-dotenv
 openai
 requests
